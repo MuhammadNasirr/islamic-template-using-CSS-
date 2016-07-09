@@ -1,0 +1,344 @@
+body
+{
+background-color: rgb(247, 244, 244);
+margin: 0 auto;	
+
+}
+#wrapper
+{
+width:100%;
+height:auto;
+margin: 0 auto;	
+background-color: #009cea;
+}
+header
+{
+width:100%;
+height:300px;
+background-color:#33adff;	
+margin: 0 auto;	
+
+background-image:url('images/hb.jpg');	
+}
+#rightheader
+{
+width:500px;
+height:300px;
+float:left;	
+font-family:Sans-serif 	Arial
+Verdana;
+}
+
+#rightheader img
+{
+width:200px;
+height:200px;	
+}
+
+#leftheader
+{
+width:500px;
+height:300px;
+float:right;	
+
+}
+#leftheader h1,#leftheader h4
+{
+font-family: audiowide-regular-webfont;	
+float:right;
+color:white;	
+padding:0;
+margin:0;
+margin-right:10px;
+}
+#searchbar
+{
+
+width:480px;
+height:80px;
+float:left;
+margin:0 auto;	
+padding:10px;	
+}
+#searchbar img,input
+{
+margin:0 auto;	
+padding-right:5px;
+margin-top:10px;
+float:right;
+}
+
+nav
+{
+width:100%;
+height:70px;
+background-color:#009cea;
+border:2px solid #fff;
+ border-radius: 25px;
+		
+}
+
+nav ul
+{
+list-style-type:none;	
+margin:0;
+}
+nav ul li
+{
+padding-left:10px;	
+padding-right:10px;
+border:1px solid #fff;	
+float:left;
+margin-left:70px;
+
+margin-top:20px;
+
+}
+nav ul a
+{
+font-size:20px;	
+color:rgb(247, 244, 244);
+text-decoration:none;
+font-weight:bold;	
+font-family: "PT Sans",sans-serif;
+
+}
+
+nav ul a:hover
+{
+background-color:#009cea;	
+font-size:10px;	
+color:white;
+}
+#slider
+{
+background-color:yellow;
+width:100%;
+margin:0 auto;
+height:400px;
+
+
+	
+}
+
+
+section
+{
+width:700px;
+height:800px;
+background-color: rgb(247, 244, 244);
+margin: 0 auto;	
+float:left;	
+
+
+			
+}
+h1
+{
+	
+background-color:#009cea;
+text-align:center;
+color:white;	
+}
+section p,aside p
+{
+font-size:20px;
+line-height:20px;
+padding:10px;
+word-spacing:10px;
+color:#bcbcbc;
+}
+section p span,#teachers a
+{
+color:#009cea;
+margin-left:10px;
+font-weight:bold;		
+}
+#teachers
+{
+width:1000px;
+height:500px;
+
+margin:0 auto;	
+	
+}
+#teachers img
+{
+margin-top:10px;
+margin-left:10px;	
+	
+}
+#ta,#tb,#tc,#td
+{
+	
+width:170px;
+margin-left:2px;
+border:1px solid white;
+height:400px;
+float:left;	
+	
+}
+#teachers h3
+{
+	font-family: "PT Sans",sans-serif;	
+text-align:center;
+color:#009cea;	
+padding:10px;
+}
+#teachers p
+{
+
+font-weight:bold;
+font-family: "PT Sans",sans-serif;
+font-size: 15px;
+text-align: center;
+
+color:#bcbcbc;	
+}
+aside
+{
+width:307px;
+height:800px;
+background-color: rgb(247, 244, 244);
+margin: 0 auto;	
+float:right;				
+	
+}
+aside img
+{
+width:200px;
+height:200px;	
+margin-top:20px;	
+margin-left:70px;	
+border:2px solid white;	
+}
+footer
+{
+background-color: #009cea;	
+text-decoration:none;	
+}
+footer p
+{
+	
+color:	white;
+font-size:20px;	
+}
+footer span
+{
+	
+margin-left:450px;	
+}
+
+#bodyofgallery,#bodyoffaculty
+{
+background-color: rgb(247, 244, 244);	
+
+height:1000px;
+width:100%;	
+	
+}
+#bodyofgallery a
+{
+	text-decoration:none;
+}
+#row1,#row2,#row3,#row4
+{
+	
+height:250px;
+width:100%;	
+
+}
+#bodyofgallery img
+{
+margin-top:20px;
+margin-left:35px;	
+width:200px;
+height:200px;	
+border-radius: 15px 50px;
+border:2px solid #009cea;	
+}
+#sidebaroffac
+{
+
+height:1000px;
+width:300px;
+float:left;	
+	
+}
+#sectionoffac
+{
+
+height:1000px;
+width:700px;
+float:left;	
+	
+	
+}
+#sectionoffac img
+{
+width:300px;
+height:300px;	
+border-radius: 15px 50px;
+border:5px solid #009cea;	
+margin-left:30px;
+margin-top:20px;	
+}
+#sectionoffac  h3
+{
+font-size:25px;	
+color:#009cea;
+padding:20px;	
+}
+#sectionoffac  h3 b
+{
+color:#bcbcbc;	
+}
+#sidebaroffac ul 
+{
+list-style-type:none;	
+margin:0;		
+}
+#sidebaroffac ul li
+{
+	
+padding-top:150px;
+
+	
+margin:0 auto;
+		
+}
+#sidebaroffac ul li a
+{
+padding:5px;	
+border:2px solid white;	
+font-size:20px;	
+color:#009cea;
+text-decoration:none;
+font-weight:bold;	
+font-family: "PT Sans",sans-serif;	
+margin:0 auto;
+}
+#bodyofcontact
+{
+background-color: rgb(247, 244, 244);
+width:100%;
+height:800px;	
+	
+}
+#abtus
+{
+	
+	color:#009cea;	
+text-align:left;
+margin-left:10px;		
+font-family:;
+font-weight:bold;
+float:left;
+}
+#googleMap
+{
+margin-top:50px;	
+float:left;
+margin-left:20px;
+border: 2px solid  #009cea;	
+}
